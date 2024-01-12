@@ -1,0 +1,1072 @@
+/*Navigation Section */
+
+
+#apple_logo{
+    height: 1.5em;
+    width: 1.2em;
+    
+}
+
+#navigation-bar {
+    width: 100%;
+    padding-left: 8%;
+}
+
+.nav-item{
+    padding-left: 1.5%;
+}
+
+#search_logo{
+    height: 1.5em;
+    width: 1.2em;
+    margin-top: 0.3em;
+    padding-left: 1.5%;
+}
+
+/*header Page*/
+
+#iphone15{
+    font-size: 3rem;
+     position: absolute;
+    top: 6rem;
+    left: 30rem;
+    color: white;
+    font-size:4vw;
+}
+
+#sostrong{
+    font-size: 2rem;
+    font-size:2.5vw;
+    position: absolute;
+    top: 10rem;
+    left: 24rem;
+    color: white;
+}
+
+#learn-more{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 13rem;
+    left: 30rem;
+    font-size:2vw;
+}
+
+#Buy{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 13rem;
+    left: 43rem;
+    font-size:2vw;
+}
+
+/*2nd Header*/
+
+#iphone15-two{
+    font-size: 4vw;
+    font-size: 3rem;
+     position: absolute;
+    top: 45rem;
+    left: 30rem;
+    color: black;
+}
+
+#sostrong-two{
+    font-size: 2rem;
+    position: absolute;
+    top: 49rem;
+    left: 24rem;
+    color: black;
+    font-size: 2.5vw;
+}
+
+#learn-more-two{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 52rem;
+    left: 30rem;
+    font-size: 2vw;
+}
+
+#Buy-two{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 52rem;
+    left: 43rem;
+    font-size: 2vw;
+}
+
+#iphone15img{
+    margin-top: 8%;
+}
+
+/*3rd Header*/
+#apple-w-logo{
+    position: absolute;
+    top: 89rem;
+    left: 33rem;
+}
+
+#watch-text{
+    font-size: 4vw;
+    font-size: 3rem;
+     position: absolute;
+    top: 88.3rem;
+    left: 36rem;
+    color: rgb(255, 255, 255);
+}
+
+#series-text{
+    position: absolute;
+    top: 92.5rem;
+    left: 37rem;
+    font-size: 2vw;
+    color: rgb(255, 0, 0);    
+}
+
+#smart-text{
+    font-size: 2rem;
+    position: absolute;
+    top: 94.5rem;
+    left: 29rem;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vw;
+}
+
+#learn-more-third{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 97rem;
+    left: 31rem;
+    font-size: 2vw;
+}
+
+#Buy-third{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 97rem;
+    left: 46rem;
+    font-size: 2vw;
+}
+
+
+/*Ultra watch 2*/
+#ultra-2{
+    width: 620px;
+    margin-left: 12px;
+    margin-top: 10px;
+    height: 500px;
+}
+
+#apple-w-logo-ultra{
+    padding-left: 28%;
+}
+
+#watch-text-ultra{
+    padding-left: 17%;
+    font-size: 4vw;
+    font-size: 3rem;
+    position: absolute;
+    top: 119rem;
+}
+
+#series-text-ultra{
+    position: absolute;
+    top: 122.4rem;
+    padding-left: 19%;
+    font-size: 1.4vw;
+    color: rgb(255, 0, 0);   
+}
+
+#smart-text-ultra{
+    position: absolute;
+    top: 123.8rem;
+    padding-left: 14.9%;
+    font-size: 1.4vw; 
+}
+
+#learn-more-third-ultra{
+    position: absolute;
+    top: 125rem;
+    padding-left: 13%;
+    font-size: 1.4vw;
+}
+
+#Buy-third-ultra{
+    position: absolute;
+    top: 125rem;
+    padding-left: 25%;
+    font-size: 1.4vw;
+}
+
+/*Carbon Neural*/
+#neural{
+    width: 620px;
+    height: 500px;
+    position: absolute;
+    top: 118.7rem;
+    left: 51%;
+
+}
+
+#carbon-neural-logo{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 24rem;
+
+}
+
+#carbon-neural-text{
+    font-size: 3vw;
+    font-size: 2rem;
+    position: absolute;
+    right: 10rem;
+    top: 1.5rem;
+}
+
+#carbon-neural-text-para1{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 12rem;
+    top: 5rem;
+}
+
+#carbon-neural-text-para2{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 15rem;
+    top: 6.5rem;
+}
+
+#link-1{
+    position: absolute;
+    right: 19rem;
+    top: 8rem;
+}
+
+#link-2{
+    position: absolute;
+    right: 9rem;
+    top: 8rem;
+}
+
+#watch-img{
+    width: 300px;
+    height: 290.8px;
+    position: absolute;
+    top: 13rem;
+    right: 9rem;
+}
+
+/*watch-se*/
+#ultra-watch-se{
+    width: 620px;
+    margin-left: 12px;
+    margin-top: 10px;
+    height: 500px;
+}
+
+#apple-w-logo-ultra-se{
+    padding-left: 28%;
+}
+
+#watch-text-se{
+    padding-left: 17%;
+    font-size: 4vw;
+    font-size: 3rem;
+    position: absolute;
+    top: 151rem;
+}
+
+#series-text-se{
+    position: absolute;
+    top: 154.5rem;
+    padding-left: 21.5%;
+    font-size: 1.4vw;
+    color: rgb(255, 0, 0);   
+}
+
+#great-text-se{
+    position: absolute;
+    top: 155.5rem;
+    padding-left: 15.8%;
+    font-size: 1.4vw; 
+}
+
+#learn-more-third-se{
+    position: absolute;
+    top: 157rem;
+    padding-left: 12%;
+    font-size: 1.4vw;
+}
+
+#Buy-third-se{
+    position: absolute;
+    top: 157rem;
+    padding-left: 26%;
+    font-size: 1.4vw;
+}
+
+#ultra2-se{
+    width: 340px;
+    height: 380px;
+    position: absolute;
+    top: 158.5rem;
+    left: 140px;
+}
+
+
+/*Student Discount*/
+#Student{
+    width: 620px;
+    height: 500px;
+    position: absolute;
+    top: 150.7rem;
+    left: 51%;
+
+}
+
+#Student-Discount-text{
+    font-size: 3vw;
+    font-size: 2rem;
+    position: absolute;
+    right: 8.5rem;
+    top: 0.5rem;
+}
+
+#Student-Discount-text-2{
+    font-size: 3vw;
+    font-size: 2rem;
+    position: absolute;
+    right: 11.4rem;
+    top: 2.3rem;
+}
+
+#Student-Discount-text-para1{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 8rem;
+    top: 5rem;
+}
+
+#Student-Discount-text-para2{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 11.5rem;
+    top: 6rem;
+}
+
+#Student-Discount-text-para3{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 12.9rem;
+    top: 8rem;
+    color: orange;
+}
+
+#Student-Discount-link{
+    position: absolute;
+    right: 17rem;
+    top: 9.5rem;
+}
+
+#student-dis-img{
+    position: absolute;
+    right: 2rem;
+    top: 11rem;
+    width: 550px;
+}
+
+/*macbook air 15*/
+#macbook-air{
+    width: 620px;
+    margin-left: 12px;
+    margin-top: 10px;
+    height: 500px;
+}
+
+#macbook-air-text{
+    padding-left: 8%;
+    font-size: 4vw;
+    font-size: 3rem;
+    position: absolute;
+    top: 183rem;
+}
+
+#impressive-mac-text{
+    position: absolute;
+    top: 186.5rem;
+    padding-left: 15%;
+    font-size: 1.4vw;
+}
+
+#learn-more-macbook{
+    position: absolute;
+    top: 188rem;
+    padding-left: 11%;
+    font-size: 1.4vw;
+}
+
+#Buy-macbook{
+    position: absolute;
+    top: 188rem;
+    padding-left: 30%;
+    font-size: 1.4vw;
+}
+
+#macbook-img{
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 190.5rem;
+    left: 140px;
+}
+
+/*Trade In*/
+#trade{
+    width: 620px;
+    height: 500px;
+    position: absolute;
+    top: 182.2rem;
+    left: 51%;
+
+}
+
+#carbon-neural-logo{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 24rem;
+
+}
+
+#Trade-in{
+    font-size: 5vw;
+    position: absolute;
+    right: 9rem;
+    top: 0.5rem;
+}
+
+#Trade-in-para1{
+    font-size: 1.4vw; 
+    position: absolute;
+    right: 10rem;
+    top: 5.9rem;
+}
+
+#Trade-in-link{
+    position: absolute;
+    right: 11rem;
+    top: 8rem;
+}
+
+#Trade-in-img{
+    width: 590px;
+    height: 440px;
+    position: absolute;
+    top: 8rem;
+    right: 1rem;
+}
+
+
+/*Text*/
+#last-text{
+    max-width: 100%;
+    height: 155%;
+}
+
+#ltext{
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+
+.coloumn1{
+    padding-left: 130px;
+}
+
+.coloumn2{
+    padding-left: 300px;
+    position: absolute;
+    top: 4520px;
+}
+
+.coloumn3{
+    padding-left: 500px;
+    position: absolute;
+    top: 4520px;
+}
+
+.coloumn4{
+    padding-left: 700px;
+    position: absolute;
+    top: 4520px;
+}
+
+.coloumn5{
+    padding-left: 900px;
+    position: absolute;
+    top: 4520px;
+}
+
+#ltext1 , #ltext2{
+    padding-left: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Responsive*/
+@media (max-width: 900px) {
+    /*header Page*/
+    #iphone15{
+        font-size: 3rem;
+         position: absolute;
+        top: 7.5rem;
+        left: 11rem;
+        color: rgb(255, 255, 255);
+        font-size:4vw;
+    }
+    #sostrong{
+        font-size: 2rem;
+        font-size:2.5vw;
+        position: absolute;
+        top: 9rem;
+        left: 9rem;
+        color: white;
+    }
+
+    #learn-more{
+        font-size: 1.5rem;
+        position: absolute;
+        top: 10.5rem;
+        left: 10.5rem;
+        font-size:2vw;
+    }
+    
+    #Buy{
+        font-size: 1.5rem;
+        position: absolute;
+        top: 10.5rem;
+        left: 17rem;
+        font-size:2vw;
+    }
+    
+/*2nd Header*/
+
+#iphone15-two{
+    font-size: 4vw;
+    font-size: 2rem;
+    position: absolute;
+    top: 22rem;
+    left: 9rem;
+    color: black;
+}
+
+#sostrong-two{
+    font-size: 6rem;
+    position: absolute;
+    top: 24.5rem;
+    left: 7.5rem;
+    color: black;
+    font-size: 3vw;
+}
+
+#learn-more-two{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 26rem;
+    left: 9.5rem;
+    font-size: 3vw;
+}
+
+#Buy-two{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 26rem;
+    left: 18.5rem;
+    font-size:3vw;
+}
+
+#iphone15img{
+    margin-top: 8%;
+}
+
+
+/*3rd Header*/
+#apple-w-logo{
+    position: absolute;
+    top: 39rem;
+    left: 11rem;
+    width: 30px;
+    height: 30px;
+}
+
+#watch-text{
+    font-size: 1vw;
+    font-size: 2rem;
+     position: absolute;
+    top: 38.5rem;
+    left: 13rem;
+    color: rgb(255, 255, 255);
+}
+
+#series-text{
+    position: absolute;
+    top: 40.9rem;
+    left: 14rem;
+    font-size: 3vw;
+    color: rgb(255, 0, 0);    
+}
+
+#smart-text{
+    font-size: 2rem;
+    position: absolute;
+    top: 42rem;
+    left: 10.3rem;
+    color: rgb(255, 255, 255);
+    font-size: 3vw;
+}
+
+#learn-more-third{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 43.4rem;
+    left: 11rem;
+    font-size: 3vw;
+}
+
+#Buy-third{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 43.4rem;
+    left: 18rem;
+    font-size: 3vw;
+}
+
+/*Ultra watch 2*/
+#ultra-2{
+    width: 480px;
+    margin-left: 12px;
+    margin-top: 10px;
+    height: 380px;
+}
+
+#apple-w-logo-ultra{
+    padding-left: 28%;
+}
+
+#watch-text-ultra{
+    padding-left: 35%;
+    font-size: 3vw;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 52.8rem;
+}
+
+#series-text-ultra{
+    position: absolute;
+    top: 55.7rem;
+    padding-left: 39%;
+    font-size: 2.9vw;
+    color: rgb(255, 0, 0);   
+}
+
+#smart-text-ultra{
+    position: absolute;
+    top: 56.8rem;
+    padding-left: 31.6%;
+    font-size: 3vw; 
+}
+
+#learn-more-third-ultra{
+    position: absolute;
+    top: 58rem;
+    padding-left: 25%;
+    font-size: 2.4vw;
+}
+
+#Buy-third-ultra{
+    position: absolute;
+    top: 58rem;
+    padding-left: 51%;
+    font-size: 2.4vw;
+}
+
+/*Carbon Neural*/
+#neural{
+    width: 480px;
+    height: 380px;
+    position: absolute;
+    top: 76.5rem;
+    left: 2%;
+
+}
+
+#carbon-neural-logo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 7rem;
+
+}
+
+#carbon-neural-text{
+    font-size: 2.5vw;
+    font-size: 1.8rem;
+    position: absolute;
+    left: 11rem;
+    width: 100%;
+    top: 15px;
+}
+
+#carbon-neural-text-para1{
+    font-size: 2.4vw; 
+    position: absolute;
+    left: 12rem;
+    top: 4rem;
+    width: 100%;
+}
+
+#carbon-neural-text-para2{
+    font-size: 2.4vw; 
+    position: absolute;
+    left: 13.3rem;
+    top: 5rem;
+    width: 100%;
+}
+
+#link-1{
+    position: absolute;
+    left: 8rem;
+    top: 6rem;
+    width: 100%;
+}
+
+#link-2{
+    position: absolute;
+    left: 17rem;
+    top: 6rem;
+    width: 100%;
+}
+
+#watch-img{
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    top: 9rem;
+    left: 8rem;
+}
+
+
+/*watch-se*/
+#ultra-watch-se{
+    width: 480px;
+    margin-left: 12px;
+    margin-top: 400px;
+    height: 380px;
+}
+
+#apple-w-logo-ultra-se{
+    padding-left: 28%;
+}
+
+#watch-text-se{
+    padding-left: 35%;
+    font-size: 4vw;
+    font-size: 3rem;
+    position: absolute;
+    top: 101.2rem;
+}
+
+#series-text-se{
+    position: absolute;
+    top: 104.5rem;
+    padding-left: 45.9%;
+    font-size: 2.9vw;
+    color: rgb(255, 0, 0);   
+}
+
+#great-text-se{
+    position: absolute;
+    top: 105.5rem;
+    padding-left: 35%;
+    font-size: 2.9vw; 
+}
+
+#learn-more-third-se{
+    position: absolute;
+    top: 107rem;
+    padding-left: 25%;
+    font-size: 2.9vw;
+}
+
+#Buy-third-se{
+    position: absolute;
+    top: 107rem;
+    padding-left: 59%;
+    font-size: 2.9vw;
+}
+
+#ultra2-se{
+    width: 220px;
+    height: 260px;
+    position: absolute;
+    top: 108rem;
+    left: 140px;
+}
+
+/*Student Discount*/
+#Student{
+    width: 480px;
+    height: 380px;
+    position: absolute;
+    top: 125rem;
+    left: 2%;
+
+}
+
+#Student-Discount-text{
+    font-size: 3vw;
+    font-size: 2rem;
+    position: absolute;
+    right: 5.5rem;
+    top: 0.5rem;
+}
+
+#Student-Discount-text-2{
+    font-size: 3vw;
+    font-size: 2rem;
+    position: absolute;
+    right: 9.4rem;
+    top: 2.3rem;
+}
+
+#Student-Discount-text-para1{
+    font-size: 2.9vw; 
+    position: absolute;
+    right: 7rem;
+    top: 5rem;
+}
+
+#Student-Discount-text-para2{
+    font-size: 2.9vw; 
+    position: absolute;
+    right: 10.5rem;
+    top: 6rem;
+}
+
+#Student-Discount-text-para3{
+    font-size: 2.9vw; 
+    position: absolute;
+    right: 11.9rem;
+    top: 8rem;
+    color: orange;
+}
+
+#Student-Discount-link{
+    position: absolute;
+    right: 14rem;
+    top: 9.5rem;
+}
+
+#student-dis-img{
+    position: absolute;
+    right: 5rem;
+    top: 11rem;
+    width: 350px;
+}
+
+/*macbook air 15*/
+
+/*macbook air 15*/
+#macbook-air{
+    width: 480px;
+    margin-left: 12px;
+    margin-top: 400px;
+    height: 380px;
+}
+
+#macbook-air-text{
+    padding-left: 8%;
+    font-size: 4vw;
+    font-size: 3rem;
+    position: absolute;
+    top: 183rem;
+}
+
+#impressive-mac-text{
+    position: absolute;
+    top: 186.5rem;
+    padding-left: 15%;
+    font-size: 1.4vw;
+}
+
+#learn-more-macbook{
+    position: absolute;
+    top: 188rem;
+    padding-left: 11%;
+    font-size: 1.4vw;
+}
+
+#Buy-macbook{
+    position: absolute;
+    top: 188rem;
+    padding-left: 30%;
+    font-size: 1.4vw;
+}
+
+#macbook-img{
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 190.5rem;
+    left: 140px;
+}
+
+
+#macbook-air-text{
+    padding-left: 8%;
+    font-size: 3vw;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 150rem;
+}
+
+#impressive-mac-text{
+    position: absolute;
+    top: 153.2rem;
+    padding-left: 21%;
+    font-size: 2.9vw;
+}
+
+#learn-more-macbook{
+    position: absolute;
+    top: 155rem;
+    padding-left: 18%;
+    font-size: 2.9vw;
+}
+
+#Buy-macbook{
+    position: absolute;
+    top: 155rem;
+    padding-left: 55%;
+    font-size: 2.9vw;
+}
+
+#macbook-img{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 157.5rem;
+    left: 80px;
+}
+
+/*Trade In*/
+#trade{
+    width: 480px;
+    height: 380px;
+    position: absolute;
+    top: 173.9rem;
+    left: 2%;
+
+}
+
+#carbon-neural-logo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 24rem;
+
+}
+
+#Trade-in{
+    font-size: 9vw;
+    position: absolute;
+    right: 9rem;
+    top: 0.5rem;
+}
+
+#Trade-in-para1{
+    font-size: 2.9vw; 
+    position: absolute;
+    right: 9rem;
+    top: 4.9rem;
+}
+
+#Trade-in-link{
+    position: absolute;
+    right: 9rem;
+    top: 6.5rem;
+}
+
+#Trade-in-img{
+    width: 460px;
+    height: 300px;
+    position: absolute;
+    top: 8rem;
+    right: 1rem;
+}
+
+/*--Footer Section */
+#last-text{
+    max-width: 100%;
+    height: 700%;
+}
+.coloumn1{
+    padding-left: 130px;
+}
+
+.coloumn2{
+    padding-left: 130px;
+    position: absolute;
+    top: 5540px;
+}
+
+.coloumn3{
+    padding-left: 130px;
+    position: absolute;
+    top: 6050px;
+}
+
+.coloumn4{
+    padding-left: 130px;
+    position: absolute;
+    top: 6480px;
+}
+
+.coloumn5{
+    padding-left: 130px;
+    position: absolute;
+    top: 6960px;
+}
+
+#ltext1{
+    position: absolute;
+    top: 7550px;
+}
+
+#ltext2{
+    position: absolute;
+    top: 7600px;
+
+}
+
+}    
+  
